@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Current Taxonomy** <span id="6"></span> 
 *We will study the six kingdoms of life and the common characteristics
 of each taxonomic group. In greater detail, we will look at the array of

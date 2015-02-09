@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Hardy-Weinberg Equilibrium** <span id="2"></span> 
 *At this point in your biology studies, you should be familiar with the
 Hardy-Weinberg Equilibrium. You might even know how it’s calculated. But

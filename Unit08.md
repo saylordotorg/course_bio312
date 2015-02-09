@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Appendix** <span id="8"></span> 
 *Although we live in a secular culture of the 21<sup>st</sup> century,
 for some people evolution creates an argument against religion and even

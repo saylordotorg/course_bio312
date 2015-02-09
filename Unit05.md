@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Fossil Record** <span id="5"></span> 
 *Using fossil evidence as well as the physical, chemical and
 phylogenetic data, scientists have reconstructed history of life on

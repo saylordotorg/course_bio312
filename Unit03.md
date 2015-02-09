@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Evolutionary Game Theory** <span id="3"></span> 
 *Game Theory is a mathematic representation of inputs and responses
 often used in psychology to predict behavior. Game Theory can also

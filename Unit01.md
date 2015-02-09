@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Review of Concepts** <span id="1"></span> 
 *In this unit, we will review the important conceptual underpinnings of
 evolutionary biology. We will learn definitions of important terms such

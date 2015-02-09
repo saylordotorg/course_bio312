@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO312: Evolutionary Biology"
+course_description: "An examination of the processes through which the current forms of life have arisen. Topics include: the mechanisms of evolution, measures of evolutionary change, current framings of evolutionary changes (e.g. Game Theory), and phylogenies."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Human Evolution** <span id="7"></span> 
 *The origin and evolution of man are to some the most interesting, but
 also a controversial part of the evolutionary biology. As you will see
