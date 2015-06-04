@@ -127,4 +127,13 @@ been completed. If you do not pass the exam, you may take it again.
 of **67 hours**. Please note that each unit has its own time advisory.
 This will help you better manage your time.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/bio312/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio312/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio312/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio312/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio312/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio312/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio312/Unit07/)
+- [Unit 8](https://legacy.saylor.org/bio312/Unit08/)
