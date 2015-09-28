@@ -145,3 +145,4 @@ This will help you better manage your time.
 - [Unit 6](https://legacy.saylor.org/bio312/Unit06/)
 - [Unit 7](https://legacy.saylor.org/bio312/Unit07/)
 - [Unit 8](https://legacy.saylor.org/bio312/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO312/BIO312-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO312/BIO312-FinalExam-Answers.html)
