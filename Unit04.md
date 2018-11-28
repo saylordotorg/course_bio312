@@ -310,7 +310,7 @@ described in the reading below.*
 id="4.3.2.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Assessment 2: Phylogeny”**
     Link: The Saylor Foundation’s [“Assessment
-    2: Phylogeny”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BIO312-Assessment-2-FINAL.pdf) (PDF)  
+    2: Phylogeny”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/BIO312-Assessment-2-FINAL.pdf) (PDF)  
       
      Instructions: Here, you will work with a popular software program
     for creating and interpreting phylogenies. You will work with one of
@@ -319,7 +319,7 @@ id="4.3.2.2"></span> 
     process of evolutionary classification in research.  
       
      When you are done, please check your work against the answers
-    provided [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/bio312-assessment-2-answers-final.pdf) (PDF).
+    provided [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/bio312-assessment-2-answers-final.pdf) (PDF).
 
 **Unit 4 Assessment** <span id="4.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
