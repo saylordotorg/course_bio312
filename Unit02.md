@@ -142,8 +142,8 @@ id="2.2.3.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Assessment 1:
     Hardy-Weinberg”**
     Link: The Saylor
-    Foundation’s [“](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BIO312-Assessment-1-FINAL.pdf)[Assessment
-    1: Hardy-Weinberg”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/BIO312-Assessment-1-FINAL.pdf) (PDF)  
+    Foundation’s [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BIO312-Assessment-1-FINAL.pdf)[Assessment
+    1: Hardy-Weinberg”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/BIO312-Assessment-1-FINAL.pdf) (PDF)  
         
      Instructions: Using the population data provided, you will
     calculate allele frequencies (at a specific locus, for a genetic
@@ -162,7 +162,7 @@ id="2.2.3.2"></span> 
 
     When you are finished, you can check your answers against this
     [Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BIO312-Assessment-1-Answers-FINAL.pdf).
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/BIO312-Assessment-1-Answers-FINAL.pdf).
     (PDF)
 
 **2.3 Summary of Population Genetics and Mathematical Treatments of the
